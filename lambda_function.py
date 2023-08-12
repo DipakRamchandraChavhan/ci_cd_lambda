@@ -24,4 +24,7 @@ def mul(a,b):
     return a*b
 
 def div(a,b):
-    return a/b+1
+    return a/b
+
+def power(a,b):
+    return a**b

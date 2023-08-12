@@ -11,3 +11,6 @@ def test_mul():
 
 def test_div():
     assert div(6,3) == 2
+
+def test_power():
+    assert power(2,3) == 8
